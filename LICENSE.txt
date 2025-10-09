@@ -1,0 +1,19 @@
+Bootstrap Form Templates - License Agreement
+--------------------------------------------
+
+This license grants you (the buyer) rights to use the Bootstrap Form Templates pack as follows:
+
+✅ You CAN:
+- Use the templates for personal or commercial projects.
+- Modify the templates to suit your needs.
+- Include the forms in your client projects.
+
+🚫 You CANNOT:
+- Resell, redistribute, or share the templates as-is or modified versions.
+- Claim the templates as your own original work.
+- Use them in a product that competes directly with this one.
+
+By downloading or using these templates, you agree to this license.
+
+Copyright © 2025
+Author: Vikkurthi Naga Madhu Babu
